@@ -75,7 +75,7 @@ label:hover {
   margin: 20px 12px 12px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 25px;
+  grid-gap: 20px;
 }
 
 .img-wrap {
